@@ -1,0 +1,8 @@
+module:VehixRentals
+vehixrentals
+vehixrentals.controller
+vehixrentals.database
+vehixrentals.model
+vehixrentals.service
+vehixrentals.session
+vehixrentals.util
